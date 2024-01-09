@@ -14,7 +14,7 @@ export const Users =[
     {
         id:3,
         name:'william',
-        email:'willaim@example.com',
+        email:'william@example.com',
         password:'12345'
     }
 
